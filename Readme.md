@@ -1,24 +1,23 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
 # Task
-**Refactoring** existing code (improving it without changing what it does) to meet a certain set of standards. For this particular homework assignment, refactored an existing site to make it more accessible. 
+For this particular homework assignment, refactored an existing site to make it more accessible. 
 
 ## User Story
-AS A marketing agency, the site is optimized for search engines. 
+As a marketing agency, the site has to be optimized for search engines. The source code is as per the below mentioned **Standards** 
 
 # Acceptance Criteria #
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title 
+**Accessibility Standards**
+1. When I view the source code, I find semantic HTML elements.
+
+2. When I view the structure of the HTML elements, I find that the elements follow a logical structure independent of styling and positioning.
+
+3. When I view the image elements, I find accessible alt attributes
+
+4. When I view the heading attributes, they fall in sequential order
+
+5. When I view the title element, I find a concise, descriptive title 
 
 
 ## Mock-Up

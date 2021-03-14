@@ -24,7 +24,7 @@ As a marketing agency, the site has to be optimized for search engines. The sour
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/layout.jpg)
+<img src="./Assets/layout.jpg" alt "Homework-Refactor-Layout">
 
 ## URL of the website 
 https://swethareddyl.github.io/Homework-Refactor-01/ 

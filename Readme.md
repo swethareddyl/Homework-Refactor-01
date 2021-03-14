@@ -23,7 +23,7 @@ As a marketing agency, the site has to be optimized for search engines. The sour
 ## Mock-Up
 The following image shows the web application's appearance and functionality:
 
-![Horiseon-Layout](./Assets/images/layout.JPG)
+![Horiseon-Layout](https://github.com/swethareddyl/Homework-Refactor-01/blob/master/assets/images/layout.JPG)
 
 ## URL of the website 
 https://swethareddyl.github.io/Homework-Refactor-01/ 

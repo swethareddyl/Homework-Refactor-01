@@ -18,11 +18,12 @@ body {
     display: inline-block;
     color: #d9dcd6;
 }
+/* Unorderd list to display on right side of the header  */
 #horizontal ul {
     list-style-type: none;
     float: right;
 }
-
+/* Adjusted list items to align with the header */
 .header  ul li {
     display: inline-block;
     margin-left: 25px;
